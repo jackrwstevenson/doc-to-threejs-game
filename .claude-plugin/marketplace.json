@@ -1,0 +1,12 @@
+{
+  "name": "doc-to-threejs-game",
+  "owner": { "name": "Jack Stevenson" },
+  "plugins": [
+    {
+      "name": "doc-to-threejs-game",
+      "source": "./",
+      "description": "Turn a document or presentation into a beautiful, explorable three.js game delivered as a single HTML file.",
+      "version": "1.0.0"
+    }
+  ]
+}
