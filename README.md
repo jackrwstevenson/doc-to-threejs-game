@@ -18,14 +18,14 @@ Pick the route that matches your tool.
 **Claude Code, as a plugin** (recommended; updates with `/plugin update`):
 
 ```
-/plugin marketplace add <your-github-user>/doc-to-threejs-game
+/plugin marketplace add jackrwstevenson/doc-to-threejs-game
 /plugin install doc-to-threejs-game@doc-to-threejs-game
 ```
 
 **Claude Code, manually:**
 
 ```bash
-git clone https://github.com/<your-github-user>/doc-to-threejs-game.git
+git clone https://github.com/jackrwstevenson/doc-to-threejs-game.git
 cp -r doc-to-threejs-game/skills/doc-to-threejs-game ~/.claude/skills/        # personal
 # or: cp -r ... your-project/.claude/skills/                                   # one project
 ```
